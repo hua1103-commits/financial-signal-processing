@@ -25,3 +25,4 @@ If `market_data.csv` is missing, the script generates `market_data_synthetic.csv
 ## Notes
 - Memory measurement uses `tracemalloc` to avoid external deps.
 - cProfile text outputs are saved in `profiles/`.
+- AI tools were used in this assignment to assist with partial codng & commenting.
