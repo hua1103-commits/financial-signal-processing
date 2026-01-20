@@ -1,0 +1,15 @@
+         500004 function calls in 0.116 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.024    0.024    0.116    0.116 /Users/hualingyu/Downloads/financial_signal_processing/profiler.py:35(run_strategy)
+   100000    0.066    0.000    0.088    0.000 /Users/hualingyu/Downloads/financial_signal_processing/strategies.py:98(generate_signals)
+   100000    0.012    0.000    0.012    0.000 /Users/hualingyu/Downloads/financial_signal_processing/strategies.py:14(_signal_from_price_vs_avg)
+   200000    0.010    0.000    0.010    0.000 {method 'get' of 'dict' objects}
+   100000    0.004    0.000    0.004    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 /Users/hualingyu/Downloads/financial_signal_processing/main.py:44(<lambda>)
+        1    0.000    0.000    0.000    0.000 <string>:2(__init__)
+
+
